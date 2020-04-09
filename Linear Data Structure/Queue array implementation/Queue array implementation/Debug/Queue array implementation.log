@@ -1,0 +1,14 @@
+﻿  Queue array implementation.cpp
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(30,1): warning C4806:  '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(22): message :  while compiling class template member function 'void Queuee<char>::Enqueue(type)'
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(22): message :         with
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(22): message :         [
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(22): message :             type=char
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(22): message :         ]
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(95): message :  see reference to function template instantiation 'void Queuee<char>::Enqueue(type)' being compiled
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(95): message :         with
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(95): message :         [
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(95): message :             type=char
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(95): message :         ]
+D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Queue array implementation\Queue array implementation.cpp(88): message :  see reference to class template instantiation 'Queuee<char>' being compiled
+  Queue array implementation.vcxproj -> D:\Tranning codes\Data Structure\Linear Data Structure\Queue array implementation\Debug\Queue array implementation.exe
