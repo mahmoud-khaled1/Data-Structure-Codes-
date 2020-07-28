@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\stack app(infix_prefix,postfix)Expressions\stack app(infix_prefix,postfix)Expressions\Source.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+D:\stack app(infix_prefix,postfix)Expressions\stack app(infix_prefix,postfix)Expressions\Source.cpp(53,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\stack app(infix_prefix,postfix)Expressions\stack app(infix_prefix,postfix)Expressions\Source.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+  stack app(infix_prefix,postfix)Expressions.vcxproj -> D:\stack app(infix_prefix,postfix)Expressions\Debug\stack app(infix_prefix,postfix)Expressions.exe

@@ -36,6 +36,7 @@ public:
 			Node* temp = top;
 
 			newnode->next = temp; 
+			
 			top = newnode;
 		}
 	}
